@@ -1,0 +1,20 @@
+body {
+    background-image: url(/day-1/odev-1/images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#baslik {
+    color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+
+}
+
+#links {
+    text-decoration: none;
+    color: blue;
+    display: flex;
+    justify-content: space-evenly;
+    
+}

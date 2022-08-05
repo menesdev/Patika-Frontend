@@ -1,0 +1,23 @@
+/******** Layout *********/
+
+/* class -> .text-red {} */
+
+.text-red {
+    color: red;
+}
+
+.text-blue {
+    color: blue;
+}
+
+.fs-small {
+ font-size: 14px;
+}
+
+.fs-medium {
+    font-size: 20px;
+}
+
+.fs-large {
+    font-size: 30px;
+}
